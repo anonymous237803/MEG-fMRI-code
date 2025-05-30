@@ -27,7 +27,7 @@ Run the notebooks to check the results of our trained models.
 
 ## Train
 
-Set the `name` variable in `train.py` to the name of your config file name. Then run the training script:
+Set the `name` variable in `train.py` to the name of your config file. Then run the training script:
 
 ```
 python train.py
