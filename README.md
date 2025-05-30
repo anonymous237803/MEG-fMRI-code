@@ -22,8 +22,8 @@ Run the notebooks to check the results of our trained models.
 - `3_ridge_MEG.ipynb`: Predictive performance of MEG ridge ceiling (Section 3.1).
 - `3_ridge_fmri.ipynb`: Predictive performance of fMRI ridge ceiling (Section 3.1).
 - `5_word_onset_freqnoun.ipynb`: Word-locked cascades of source activities after word onset (Section 4.1).
-- `6_surprisal_predmeg.ipynb`: Word surprisal effect in predicted MEG sensors (Section 4.2).
 - `6_surprisal.ipynb`: Word surprisal effect in sources (Section 4.2).
+- `6_surprisal_predmeg.ipynb`: Word surprisal effect in predicted MEG sensors (Section 4.2).
 
 ## Train
 
