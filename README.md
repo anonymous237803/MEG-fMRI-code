@@ -1,6 +1,6 @@
 # Transformer-based MEG-fMRI Encoding Model with High Spatial and Temporal Resolution
 
-Project Website: [https://anonymous237803.github.io/NeurIPS2025-MEG-fMRI/](https://anonymous237803.github.io/NeurIPS2025-MEG-fMRI/)
+Project Website: [https://anonymous237803.github.io/MEG-fMRI/](https://anonymous237803.github.io/MEG-fMRI/)
 
 ## Environment Setup
 
