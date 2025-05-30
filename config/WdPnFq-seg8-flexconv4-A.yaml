@@ -1,0 +1,22 @@
+MEG_SUBJECT: "A"
+FMRI_SUBJECT: "UTavg-to-Moth_A"
+use_segment: True
+spacing: "oct6"
+meg_loss_weight: 1
+fmri_loss_weight: 1
+softmax_T: 0
+epoch_num: 100
+dataset:
+  DATASET_DIR: "/data/story_dataset"  # change to your dataset path
+model:
+  d_model: 256
+  nhead: 4
+  num_layers: 2
+  dim_ff: 512
+  dropout: 0.2
+  L: 10
+  source_power: True
+  fmri_noise: True
+optimizer:
+  lr: 0.001
+  weight_decay: 0.001
